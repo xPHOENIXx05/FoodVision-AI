@@ -13,7 +13,14 @@ import json
 import os
 from PIL import Image
 import requests
+from app.services.json_db import (
+    load_json_db,
+    save_json_db,
+    init_db,
+)
 API_KEY = os.environ.get("USDA_API_KEY", "ZRREJ2EWXdQvYYckq9EAQdlbKNSbn6Nbk8yybRbI")
+
+
 
 def get_calories_from_api(food_name):
     try:
@@ -68,31 +75,12 @@ DB_FOODS_PATH = os.path.join(os.path.dirname(__file__), 'data', 'foods.json')
 DB_LOGS_PATH = os.path.join(os.path.dirname(__file__), 'data', 'activity_logs.json')
 DB_AUDIT_PATH = os.path.join(os.path.dirname(__file__), 'data', 'audit_logs.json')
 
-def load_json_db(path):
-    if not os.path.exists(path):
-        return []
-    with open(path, 'r') as f:
-        try:
-            return json.load(f)
-        except:
-            return []
-
-def save_json_db(path, data):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, 'w') as f:
-        json.dump(data, f, indent=4)
-
-def init_db():
-    if not os.path.exists(DB_USERS_PATH):
-        save_json_db(DB_USERS_PATH, [])
-    if not os.path.exists(DB_FOODS_PATH):
-        save_json_db(DB_FOODS_PATH, [])
-    if not os.path.exists(DB_LOGS_PATH):
-        save_json_db(DB_LOGS_PATH, [])
-    if not os.path.exists(DB_AUDIT_PATH):
-        save_json_db(DB_AUDIT_PATH, [])
-
-init_db()
+init_db(
+    DB_USERS_PATH,
+    DB_FOODS_PATH,
+    DB_LOGS_PATH,
+    DB_AUDIT_PATH,
+)
 
 # Food classes that our model can predict
 FOOD_CLASSES = [

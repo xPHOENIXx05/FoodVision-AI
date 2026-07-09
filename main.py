@@ -19,6 +19,7 @@ from app.services.json_db import (
     init_db,
 )
 from app.services.usda_service import get_calories_from_api
+from app.services.prediction_service import normalize_food_name
 
 
 # TensorFlow imports commented out
@@ -103,38 +104,6 @@ def get_food_name(class_id, confidence):
         return food_labels[class_id]
 
     return "Unknown Food"
-
-# Normalize model food names for USDA lookups and calorie mapping
-def normalize_food_name(food_name):
-    if not food_name:
-        return None
-
-    normalized = food_name.lower().strip()
-
-    # Simple alias mapping for commonly misclassified names
-    aliases = {
-        'french fries': 'french fries',
-        'fries': 'french fries',
-        'hot dog': 'hot dog',
-        'hamburger': 'burger',
-        'ice cream': 'ice cream',
-        'chicken wings': 'chicken wings',
-        'pizza': 'pizza',
-        'sushi': 'sushi',
-        'tacos': 'tacos',
-        'bibimbap': 'bibimbap',
-        'burger': 'burger',
-        'dosa': 'dosa',
-        'salad': 'salad',
-    }
-
-    if normalized in aliases:
-        return aliases[normalized]
-
-    # remove punctuation and underscores
-    normalized = normalized.replace('_', ' ').replace('-', ' ').strip()
-
-    return normalized
 
 # PyTorch / timm / torchvision imports removed for Render deployment
 # import torch

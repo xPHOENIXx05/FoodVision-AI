@@ -2,16 +2,13 @@
 Food Calorie Estimation API using Flask and CNN Deep Learning Model
 """
 from flask import Flask, request, jsonify, render_template, redirect, url_for, session, flash
-import sqlite3
 from werkzeug.security import generate_password_hash, check_password_hash
 from functools import wraps
 from flask_cors import CORS
-import numpy as np
 import base64
 import io
 import json
 import os
-from PIL import Image
 
 from app.services.json_db import (
     load_json_db,

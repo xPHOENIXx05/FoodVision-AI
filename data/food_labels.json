@@ -1,0 +1,362 @@
+[
+    {
+        "label": "apple",
+        "usda": "Apple"
+    },
+    {
+        "label": "apricot",
+        "usda": "Apricot"
+    },
+    {
+        "label": "artichoke",
+        "usda": "Artichoke"
+    },
+    {
+        "label": "arugula",
+        "usda": "Arugula"
+    },
+    {
+        "label": "ash gourd",
+        "usda": "Ash Gourd"
+    },
+    {
+        "label": "asparagus",
+        "usda": "Asparagus"
+    },
+    {
+        "label": "avocado",
+        "usda": "Avocado"
+    },
+    {
+        "label": "banana",
+        "usda": "Banana"
+    },
+    {
+        "label": "beetroot",
+        "usda": "Beetroot"
+    },
+    {
+        "label": "bell pepper",
+        "usda": "Bell Pepper"
+    },
+    {
+        "label": "bitter gourd",
+        "usda": "Bitter Gourd"
+    },
+    {
+        "label": "black grapes",
+        "usda": "Black Grapes"
+    },
+    {
+        "label": "blackberry",
+        "usda": "Blackberry"
+    },
+    {
+        "label": "blueberry",
+        "usda": "Blueberry"
+    },
+    {
+        "label": "bok choy",
+        "usda": "Bok Choy"
+    },
+    {
+        "label": "bottle gourd",
+        "usda": "Bottle Gourd"
+    },
+    {
+        "label": "brinjal",
+        "usda": "Eggplant"
+    },
+    {
+        "label": "broccoli",
+        "usda": "Broccoli"
+    },
+    {
+        "label": "cabbage",
+        "usda": "Cabbage"
+    },
+    {
+        "label": "carrot",
+        "usda": "Carrot"
+    },
+    {
+        "label": "cauliflower",
+        "usda": "Cauliflower"
+    },
+    {
+        "label": "celery",
+        "usda": "Celery"
+    },
+    {
+        "label": "cherry",
+        "usda": "Cherry"
+    },
+    {
+        "label": "chili pepper",
+        "usda": "Chili Pepper"
+    },
+    {
+        "label": "coconut",
+        "usda": "Coconut"
+    },
+    {
+        "label": "corn",
+        "usda": "Corn"
+    },
+    {
+        "label": "cranberry",
+        "usda": "Cranberries"
+    },
+    {
+        "label": "cucumber",
+        "usda": "Cucumber"
+    },
+    {
+        "label": "custard apple",
+        "usda": "Custard Apple"
+    },
+    {
+        "label": "dates",
+        "usda": "Dates"
+    },
+    {
+        "label": "dragon fruit",
+        "usda": "Dragon Fruit"
+    },
+    {
+        "label": "drumstick",
+        "usda": "Drumstick Pods"
+    },
+    {
+        "label": "eggplant",
+        "usda": "Eggplant"
+    },
+    {
+        "label": "fig",
+        "usda": "Fig"
+    },
+    {
+        "label": "garlic",
+        "usda": "Garlic"
+    },
+    {
+        "label": "ginger",
+        "usda": "Ginger"
+    },
+    {
+        "label": "grapes",
+        "usda": "Grapes"
+    },
+    {
+        "label": "green apple",
+        "usda": "Green Apple"
+    },
+    {
+        "label": "green beans",
+        "usda": "Green Beans"
+    },
+    {
+        "label": "green bell pepper",
+        "usda": "Green Bell Pepper"
+    },
+    {
+        "label": "green chili",
+        "usda": "Green Chili Pepper"
+    },
+    {
+        "label": "green grapes",
+        "usda": "Green Grapes"
+    },
+    {
+        "label": "guava",
+        "usda": "Guava"
+    },
+    {
+        "label": "jackfruit",
+        "usda": "Jackfruit"
+    },
+    {
+        "label": "kale",
+        "usda": "Kale"
+    },
+    {
+        "label": "kidney beans",
+        "usda": "Kidney Beans"
+    },
+    {
+        "label": "kiwi",
+        "usda": "Kiwi"
+    },
+    {
+        "label": "leek",
+        "usda": "Leek"
+    },
+    {
+        "label": "lemon",
+        "usda": "Lemon"
+    },
+    {
+        "label": "lettuce",
+        "usda": "Lettuce"
+    },
+    {
+        "label": "lime",
+        "usda": "Lime"
+    },
+    {
+        "label": "lychee",
+        "usda": "Lychee"
+    },
+    {
+        "label": "mandarin",
+        "usda": "Mandarin Orange"
+    },
+    {
+        "label": "mango",
+        "usda": "Mango"
+    },
+    {
+        "label": "mushroom",
+        "usda": "Mushrooms"
+    },
+    {
+        "label": "muskmelon",
+        "usda": "Cantaloupe"
+    },
+    {
+        "label": "okra",
+        "usda": "Okra"
+    },
+    {
+        "label": "onion",
+        "usda": "Onion"
+    },
+    {
+        "label": "orange",
+        "usda": "Orange"
+    },
+    {
+        "label": "papaya",
+        "usda": "Papaya"
+    },
+    {
+        "label": "passion fruit",
+        "usda": "Passion Fruit"
+    },
+    {
+        "label": "peach",
+        "usda": "Peach"
+    },
+    {
+        "label": "pear",
+        "usda": "Pear"
+    },
+    {
+        "label": "peas",
+        "usda": "Green Peas"
+    },
+    {
+        "label": "persimmon",
+        "usda": "Persimmon"
+    },
+    {
+        "label": "pineapple",
+        "usda": "Pineapple"
+    },
+    {
+        "label": "plum",
+        "usda": "Plum"
+    },
+    {
+        "label": "pomegranate",
+        "usda": "Pomegranate"
+    },
+    {
+        "label": "potato",
+        "usda": "Potato"
+    },
+    {
+        "label": "pumpkin",
+        "usda": "Pumpkin"
+    },
+    {
+        "label": "radish",
+        "usda": "Radish"
+    },
+    {
+        "label": "raspberry",
+        "usda": "Raspberry"
+    },
+    {
+        "label": "red apple",
+        "usda": "Red Apple"
+    },
+    {
+        "label": "red bell pepper",
+        "usda": "Red Bell Pepper"
+    },
+    {
+        "label": "red cabbage",
+        "usda": "Red Cabbage"
+    },
+    {
+        "label": "red onion",
+        "usda": "Red Onion"
+    },
+    {
+        "label": "ridge gourd",
+        "usda": "Ridge Gourd"
+    },
+    {
+        "label": "scallion",
+        "usda": "Green Onion"
+    },
+    {
+        "label": "snake gourd",
+        "usda": "Snake Gourd"
+    },
+    {
+        "label": "spinach",
+        "usda": "Spinach"
+    },
+    {
+        "label": "spring onion",
+        "usda": "Green Onion"
+    },
+    {
+        "label": "star fruit",
+        "usda": "Star Fruit"
+    },
+    {
+        "label": "strawberry",
+        "usda": "Strawberry"
+    },
+    {
+        "label": "sweet corn",
+        "usda": "Sweet Corn"
+    },
+    {
+        "label": "sweet potato",
+        "usda": "Sweet Potato"
+    },
+    {
+        "label": "tomato",
+        "usda": "Tomato"
+    },
+    {
+        "label": "turnip",
+        "usda": "Turnip"
+    },
+    {
+        "label": "watermelon",
+        "usda": "Watermelon"
+    },
+    {
+        "label": "yellow bell pepper",
+        "usda": "Yellow Bell Pepper"
+    },
+    {
+        "label": "zucchini",
+        "usda": "Zucchini"
+    }
+]

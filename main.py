@@ -3,6 +3,7 @@ Food Calorie Estimation API using Flask and CNN Deep Learning Model
 """
 from flask import Flask, request, jsonify, render_template, redirect, url_for, session, flash
 from werkzeug.security import generate_password_hash, check_password_hash
+from app.services.food101_service import predict_food as hf_predict_food
 from functools import wraps
 from flask_cors import CORS
 import base64
@@ -144,17 +145,10 @@ import io
 
 def predict_food(image_data):
     """
-    Mocked food prediction for Render free tier deployment.
-    Simulates AI image prediction returning Pizza.
+    Wrapper around the Hugging Face Food-101 model.
+    Keeps the same interface used throughout the app.
     """
-    food_name = "Pizza"
-    confidence = 0.92
-    predictions_list = [
-        {"name": "Pizza", "confidence": 92},
-        {"name": "Burger", "confidence": 5},
-        {"name": "Pasta", "confidence": 3}
-    ]
-    return food_name, confidence, predictions_list
+    return hf_predict_food(image_data)
     
 import time
 
@@ -202,6 +196,12 @@ def predict():
         
         # Predict food class with final fix logic
         food_name, confidence, predictions_list = predict_food(image_data)
+        
+        print("\n===== AI Prediction =====")
+        print("Food:", food_name)
+        print("Confidence:", confidence)
+        print("Top 3:", predictions_list)
+        print("=========================\n")
 
         # Apply a usage threshold to reduce obvious classification errors
         if confidence < 0.15 or food_name == "Unknown Food":
@@ -931,4 +931,4 @@ def reset_password(id):
 
 if __name__ == "__main__":
     # Disable debug=True for production
-    app.run(debug=os.environ.get("FLASK_DEBUG", "False").lower() == "true")
+    app.run(debug=True)

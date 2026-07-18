@@ -1,15 +1,15 @@
 {
-  "schema_version": 1,
-  "foods": [
-    {
-      "id": "apple",
-      "canonical_name": "Apple",
-      "display_name": "Apple",
-      "category": "Fruit",
-      "aliases": [],
-      "ai_labels": [],
-      "external_ids": {},
-      "metadata": {}
-    }
-  ]
+    "schema_version": 1,
+    "foods": [
+        {
+            "id": "apple",
+            "display_name": "Apple",
+            "category": "Fruit",
+            "aliases": [
+                "Red Apple",
+                "Green Apple"
+            ],
+            "usda": "Apple, raw"
+        }
+    ]
 }

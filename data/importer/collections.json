@@ -1,0 +1,8 @@
+[
+    {
+        "csv": "fruits.csv",
+        "output": "fruits.json",
+        "category": "fruits",
+        "type": "fruit"
+    }
+]

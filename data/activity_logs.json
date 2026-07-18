@@ -61,5 +61,581 @@
         "quantity": "1 serving",
         "calories": "Unknown",
         "timestamp": "2026-05-09T11:59:54.103012"
+    },
+    {
+        "id": 8,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T09:54:36.723032"
+    },
+    {
+        "id": 9,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T10:15:44.136053"
+    },
+    {
+        "id": 10,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T10:33:09.710631"
+    },
+    {
+        "id": 11,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T10:34:34.588463"
+    },
+    {
+        "id": 12,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T10:43:52.028495"
+    },
+    {
+        "id": 13,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T10:44:18.431730"
+    },
+    {
+        "id": 14,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T10:49:52.300176"
+    },
+    {
+        "id": 15,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T10:50:47.316548"
+    },
+    {
+        "id": 16,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T10:59:05.629296"
+    },
+    {
+        "id": 17,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T11:07:33.662532"
+    },
+    {
+        "id": 18,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T11:11:07.682178"
+    },
+    {
+        "id": 19,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T11:11:36.856529"
+    },
+    {
+        "id": 20,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T11:30:42.549525"
+    },
+    {
+        "id": 21,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T11:42:51.551170"
+    },
+    {
+        "id": 22,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T12:02:54.803733"
+    },
+    {
+        "id": 23,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T12:18:46.004273"
+    },
+    {
+        "id": 24,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T12:19:19.335261"
+    },
+    {
+        "id": 25,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T12:24:52.304645"
+    },
+    {
+        "id": 26,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T12:25:59.281342"
+    },
+    {
+        "id": 27,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T12:26:35.352692"
+    },
+    {
+        "id": 28,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T12:30:10.512868"
+    },
+    {
+        "id": 29,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T12:30:11.382211"
+    },
+    {
+        "id": 30,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T12:30:12.707360"
+    },
+    {
+        "id": 31,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T12:30:31.475221"
+    },
+    {
+        "id": 32,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T13:03:40.584899"
+    },
+    {
+        "id": 33,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-15T13:12:48.056841"
+    },
+    {
+        "id": 34,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T03:39:50.210585"
+    },
+    {
+        "id": 35,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T03:39:53.956300"
+    },
+    {
+        "id": 36,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T03:52:29.890063"
+    },
+    {
+        "id": 37,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T04:01:07.192056"
+    },
+    {
+        "id": 38,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T04:24:21.772017"
+    },
+    {
+        "id": 39,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T04:25:08.964604"
+    },
+    {
+        "id": 40,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T04:26:11.292407"
+    },
+    {
+        "id": 41,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T04:30:46.335183"
+    },
+    {
+        "id": 42,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T08:24:46.454357"
+    },
+    {
+        "id": 43,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T08:30:15.806991"
+    },
+    {
+        "id": 44,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T08:39:22.848773"
+    },
+    {
+        "id": 45,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T08:41:47.622063"
+    },
+    {
+        "id": 46,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T08:44:19.942391"
+    },
+    {
+        "id": 47,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T08:45:08.335824"
+    },
+    {
+        "id": 48,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T08:45:10.702356"
+    },
+    {
+        "id": 49,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T08:50:29.865310"
+    },
+    {
+        "id": 50,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T08:59:17.390522"
+    },
+    {
+        "id": 51,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T09:10:38.494228"
+    },
+    {
+        "id": 52,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T10:04:56.735107"
+    },
+    {
+        "id": 53,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T10:36:47.914502"
+    },
+    {
+        "id": 54,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T10:37:47.040141"
+    },
+    {
+        "id": 55,
+        "user_email": "Unknown",
+        "action_type": "search",
+        "food_name": "Appe",
+        "quantity": "100g",
+        "calories": 464,
+        "timestamp": "2026-07-16T11:24:20.157443"
+    },
+    {
+        "id": 56,
+        "user_email": "Unknown",
+        "action_type": "search",
+        "food_name": "Appe",
+        "quantity": "100g",
+        "calories": 464,
+        "timestamp": "2026-07-16T11:24:59.157389"
+    },
+    {
+        "id": 57,
+        "user_email": "Unknown",
+        "action_type": "search",
+        "food_name": "Pizza",
+        "quantity": "100g",
+        "calories": 238,
+        "timestamp": "2026-07-16T11:25:33.493752"
+    },
+    {
+        "id": 58,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-16T11:25:56.094978"
+    },
+    {
+        "id": 59,
+        "user_email": "Unknown",
+        "action_type": "search",
+        "food_name": "Pizza",
+        "quantity": "100g",
+        "calories": 238,
+        "timestamp": "2026-07-16T11:31:33.744212"
+    },
+    {
+        "id": 60,
+        "user_email": "Unknown",
+        "action_type": "search",
+        "food_name": "Pizza",
+        "quantity": "100g",
+        "calories": 238,
+        "timestamp": "2026-07-16T11:32:05.722175"
+    },
+    {
+        "id": 61,
+        "user_email": "Unknown",
+        "action_type": "search",
+        "food_name": "Apple",
+        "quantity": "100g",
+        "calories": 46,
+        "timestamp": "2026-07-16T11:32:32.775684"
+    },
+    {
+        "id": 62,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "hamburger",
+        "quantity": "1 serving",
+        "calories": 88,
+        "timestamp": "2026-07-17T03:31:22.146426"
+    },
+    {
+        "id": 63,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "pizza",
+        "quantity": "1 serving",
+        "calories": 238,
+        "timestamp": "2026-07-17T03:31:54.109898"
+    },
+    {
+        "id": 64,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Unknown Food",
+        "quantity": "1 serving",
+        "calories": "Unknown",
+        "timestamp": "2026-07-17T03:32:10.085726"
+    },
+    {
+        "id": 65,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "fried_rice",
+        "quantity": "1 serving",
+        "calories": 183,
+        "timestamp": "2026-07-17T03:33:47.565899"
+    },
+    {
+        "id": 66,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "macaroni_and_cheese",
+        "quantity": "1 serving",
+        "calories": 102,
+        "timestamp": "2026-07-17T03:35:38.878851"
+    },
+    {
+        "id": 67,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "chicken_curry",
+        "quantity": "1 serving",
+        "calories": 107,
+        "timestamp": "2026-07-17T03:39:54.605576"
+    },
+    {
+        "id": 68,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Unknown Food",
+        "quantity": "1 serving",
+        "calories": "Unknown",
+        "timestamp": "2026-07-17T03:40:16.782794"
+    },
+    {
+        "id": 69,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "chicken_curry",
+        "quantity": "1 serving",
+        "calories": 107,
+        "timestamp": "2026-07-17T03:40:46.493328"
+    },
+    {
+        "id": 70,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Unknown Food",
+        "quantity": "1 serving",
+        "calories": "Unknown",
+        "timestamp": "2026-07-17T04:53:29.527403"
+    },
+    {
+        "id": 71,
+        "user_email": "Unknown",
+        "action_type": "upload",
+        "food_name": "Unknown Food",
+        "quantity": "1 serving",
+        "calories": "Unknown",
+        "timestamp": "2026-07-17T04:54:57.040597"
     }
 ]

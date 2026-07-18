@@ -1,0 +1,19 @@
+{
+    "schema_version": 1,
+    "collections": [
+        "produce.json",
+        "fruits.json",
+        "vegetables.json",
+        "proteins.json",
+        "dairy.json",
+        "grains.json",
+        "seafood.json",
+        "desserts.json",
+        "snacks.json",
+        "drinks.json",
+        "fast_food.json",
+        "restaurant_foods.json",
+        "street_foods.json",
+        "regional_foods.json"
+    ]
+}

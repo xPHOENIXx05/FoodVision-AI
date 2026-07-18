@@ -1,0 +1,92 @@
+[
+    {
+        "id": "apple",
+        "display_name": "Apple",
+        "category": "fruits",
+        "type": "fruit",
+        "aliases": [],
+        "usda": "",
+        "recognizable": true
+    },
+    {
+        "id": "banana",
+        "display_name": "Banana",
+        "category": "fruits",
+        "type": "fruit",
+        "aliases": [],
+        "usda": "",
+        "recognizable": true
+    },
+    {
+        "id": "orange",
+        "display_name": "Orange",
+        "category": "fruits",
+        "type": "fruit",
+        "aliases": [],
+        "usda": "",
+        "recognizable": true
+    },
+    {
+        "id": "mango",
+        "display_name": "Mango",
+        "category": "fruits",
+        "type": "fruit",
+        "aliases": [],
+        "usda": "",
+        "recognizable": true
+    },
+    {
+        "id": "strawberry",
+        "display_name": "Strawberry",
+        "category": "fruits",
+        "type": "fruit",
+        "aliases": [],
+        "usda": "",
+        "recognizable": true
+    },
+    {
+        "id": "blueberry",
+        "display_name": "Blueberry",
+        "category": "fruits",
+        "type": "fruit",
+        "aliases": [],
+        "usda": "",
+        "recognizable": true
+    },
+    {
+        "id": "watermelon",
+        "display_name": "Watermelon",
+        "category": "fruits",
+        "type": "fruit",
+        "aliases": [],
+        "usda": "",
+        "recognizable": true
+    },
+    {
+        "id": "pineapple",
+        "display_name": "Pineapple",
+        "category": "fruits",
+        "type": "fruit",
+        "aliases": [],
+        "usda": "",
+        "recognizable": true
+    },
+    {
+        "id": "kiwi",
+        "display_name": "Kiwi",
+        "category": "fruits",
+        "type": "fruit",
+        "aliases": [],
+        "usda": "",
+        "recognizable": true
+    },
+    {
+        "id": "grapes",
+        "display_name": "Grapes",
+        "category": "fruits",
+        "type": "fruit",
+        "aliases": [],
+        "usda": "",
+        "recognizable": true
+    }
+]

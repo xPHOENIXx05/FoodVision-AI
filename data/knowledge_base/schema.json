@@ -1,7 +1,17 @@
 [
-    {
-  "schema_version": 1,
-  "name": "FoodVision AI Knowledge Base",
-  "description": "Master schema for all FoodVision AI food records."
-}
+  {
+    "schema_version": 1,
+    "name": "FoodVision AI Knowledge Base",
+    "description": "Master schema for all FoodVision AI food records.",
+
+    "food_schema": {
+        "id": "",
+        "display_name": "",
+        "category": "",
+        "type": "",
+        "aliases": [],
+        "usda": "",
+        "recognizable": true
+    }
+  }
 ]

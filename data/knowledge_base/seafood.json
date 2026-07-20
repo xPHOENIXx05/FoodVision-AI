@@ -1,4 +1,131 @@
 {
     "schema_version": 1,
-    "foods": []
+    "foods": [
+        {
+            "id": "ceviche",
+            "display_name": "Ceviche",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "clam_chowder",
+            "display_name": "Clam Chowder",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "crab_cakes",
+            "display_name": "Crab Cakes",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "fish_and_chips",
+            "display_name": "Fish And Chips",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "fried_calamari",
+            "display_name": "Fried Calamari",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "grilled_salmon",
+            "display_name": "Grilled Salmon",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "lobster_bisque",
+            "display_name": "Lobster Bisque",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "lobster_roll_sandwich",
+            "display_name": "Lobster Roll Sandwich",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "mussels",
+            "display_name": "Mussels",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "oysters",
+            "display_name": "Oysters",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "sashimi",
+            "display_name": "Sashimi",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "scallops",
+            "display_name": "Scallops",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "shrimp_and_grits",
+            "display_name": "Shrimp And Grits",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "tuna_tartare",
+            "display_name": "Tuna Tartare",
+            "category": "seafood",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        }
+    ]
 }

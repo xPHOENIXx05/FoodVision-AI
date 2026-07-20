@@ -1,4 +1,122 @@
 {
     "schema_version": 1,
-    "foods": []
+    "foods": [
+        {
+            "id": "breakfast_burrito",
+            "display_name": "Breakfast Burrito",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "chicken_quesadilla",
+            "display_name": "Chicken Quesadilla",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "chicken_wings",
+            "display_name": "Chicken Wings",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "club_sandwich",
+            "display_name": "Club Sandwich",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "french_fries",
+            "display_name": "French Fries",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "grilled_cheese_sandwich",
+            "display_name": "Grilled Cheese Sandwich",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "hamburger",
+            "display_name": "Hamburger",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "hot_dog",
+            "display_name": "Hot Dog",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "nachos",
+            "display_name": "Nachos",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "onion_rings",
+            "display_name": "Onion Rings",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "pizza",
+            "display_name": "Pizza",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "poutine",
+            "display_name": "Poutine",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "pulled_pork_sandwich",
+            "display_name": "Pulled Pork Sandwich",
+            "category": "fast_food",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        }
+    ]
 }

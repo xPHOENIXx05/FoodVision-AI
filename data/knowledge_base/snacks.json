@@ -1,4 +1,32 @@
 {
     "schema_version": 1,
-    "foods": []
+    "foods": [
+        {
+            "id": "bruschetta",
+            "display_name": "Bruschetta",
+            "category": "snacks",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "guacamole",
+            "display_name": "Guacamole",
+            "category": "snacks",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "hummus",
+            "display_name": "Hummus",
+            "category": "snacks",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        }
+    ]
 }

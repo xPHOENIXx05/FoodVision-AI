@@ -1,4 +1,59 @@
 {
     "schema_version": 1,
-    "foods": []
+    "foods": [
+        {
+            "id": "beet_salad",
+            "display_name": "Beet Salad",
+            "category": "vegetables",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "caesar_salad",
+            "display_name": "Caesar Salad",
+            "category": "vegetables",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "caprese_salad",
+            "display_name": "Caprese Salad",
+            "category": "vegetables",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "edamame",
+            "display_name": "Edamame",
+            "category": "vegetables",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "greek_salad",
+            "display_name": "Greek Salad",
+            "category": "vegetables",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "seaweed_salad",
+            "display_name": "Seaweed Salad",
+            "category": "vegetables",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        }
+    ]
 }

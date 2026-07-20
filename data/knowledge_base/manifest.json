@@ -1,7 +1,6 @@
 {
     "schema_version": 1,
     "collections": [
-        "produce.json",
         "fruits.json",
         "vegetables.json",
         "proteins.json",

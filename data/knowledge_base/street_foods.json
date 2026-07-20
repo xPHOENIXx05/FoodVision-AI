@@ -1,4 +1,41 @@
 {
     "schema_version": 1,
-    "foods": []
+    "foods": [
+        {
+            "id": "samosa",
+            "display_name": "Samosa",
+            "category": "street_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "spring_rolls",
+            "display_name": "Spring Rolls",
+            "category": "street_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "tacos",
+            "display_name": "Tacos",
+            "category": "street_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "takoyaki",
+            "display_name": "Takoyaki",
+            "category": "street_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        }
+    ]
 }

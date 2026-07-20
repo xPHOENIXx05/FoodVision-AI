@@ -1,4 +1,185 @@
 {
     "schema_version": 1,
-    "foods": []
+    "foods": [
+        {
+            "id": "apple_pie",
+            "display_name": "Apple Pie",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "baklava",
+            "display_name": "Baklava",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "beignets",
+            "display_name": "Beignets",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "bread_pudding",
+            "display_name": "Bread Pudding",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "cannoli",
+            "display_name": "Cannoli",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "carrot_cake",
+            "display_name": "Carrot Cake",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "cheesecake",
+            "display_name": "Cheesecake",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "chocolate_cake",
+            "display_name": "Chocolate Cake",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "chocolate_mousse",
+            "display_name": "Chocolate Mousse",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "churros",
+            "display_name": "Churros",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "creme_brulee",
+            "display_name": "Creme Brulee",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "cup_cakes",
+            "display_name": "Cup Cakes",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "donuts",
+            "display_name": "Donuts",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "frozen_yogurt",
+            "display_name": "Frozen Yogurt",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "ice_cream",
+            "display_name": "Ice Cream",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "macarons",
+            "display_name": "Macarons",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "panna_cotta",
+            "display_name": "Panna Cotta",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "red_velvet_cake",
+            "display_name": "Red Velvet Cake",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "strawberry_shortcake",
+            "display_name": "Strawberry Shortcake",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "tiramisu",
+            "display_name": "Tiramisu",
+            "category": "desserts",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        }
+    ]
 }

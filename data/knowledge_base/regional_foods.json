@@ -1,4 +1,212 @@
 {
     "schema_version": 1,
-    "foods": []
+    "foods": [
+        {
+            "id": "bibimbap",
+            "display_name": "Bibimbap",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "chicken_curry",
+            "display_name": "Chicken Curry",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "croque_madame",
+            "display_name": "Croque Madame",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "dumplings",
+            "display_name": "Dumplings",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "falafel",
+            "display_name": "Falafel",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "french_onion_soup",
+            "display_name": "French Onion Soup",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "fried_rice",
+            "display_name": "Fried Rice",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "gnocchi",
+            "display_name": "Gnocchi",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "gyoza",
+            "display_name": "Gyoza",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "hot_and_sour_soup",
+            "display_name": "Hot And Sour Soup",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "huevos_rancheros",
+            "display_name": "Huevos Rancheros",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "lasagna",
+            "display_name": "Lasagna",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "miso_soup",
+            "display_name": "Miso Soup",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "pad_thai",
+            "display_name": "Pad Thai",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "paella",
+            "display_name": "Paella",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "peking_duck",
+            "display_name": "Peking Duck",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "pho",
+            "display_name": "Pho",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "ramen",
+            "display_name": "Ramen",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "ravioli",
+            "display_name": "Ravioli",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "risotto",
+            "display_name": "Risotto",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "spaghetti_bolognese",
+            "display_name": "Spaghetti Bolognese",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "spaghetti_carbonara",
+            "display_name": "Spaghetti Carbonara",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "sushi",
+            "display_name": "Sushi",
+            "category": "regional_foods",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        }
+    ]
 }

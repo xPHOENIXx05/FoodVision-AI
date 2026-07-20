@@ -3,90 +3,93 @@
         "id": "apple",
         "display_name": "Apple",
         "category": "fruits",
-        "type": "fruit",
-        "aliases": [],
-        "usda": "",
-        "recognizable": true
+        "type": "food",
+        "aliases": [
+            "Red Apple",
+            "Green Apple"
+        ],
+        "recognizable": true,
+        "usda": "Apple, raw"
     },
     {
         "id": "banana",
         "display_name": "Banana",
         "category": "fruits",
-        "type": "fruit",
+        "type": "food",
         "aliases": [],
-        "usda": "",
-        "recognizable": true
+        "recognizable": true,
+        "usda": null
     },
     {
         "id": "orange",
         "display_name": "Orange",
         "category": "fruits",
-        "type": "fruit",
+        "type": "food",
         "aliases": [],
-        "usda": "",
-        "recognizable": true
+        "recognizable": true,
+        "usda": null
     },
     {
         "id": "mango",
         "display_name": "Mango",
         "category": "fruits",
-        "type": "fruit",
+        "type": "food",
         "aliases": [],
-        "usda": "",
-        "recognizable": true
+        "recognizable": true,
+        "usda": null
     },
     {
         "id": "strawberry",
         "display_name": "Strawberry",
         "category": "fruits",
-        "type": "fruit",
+        "type": "food",
         "aliases": [],
-        "usda": "",
-        "recognizable": true
+        "recognizable": true,
+        "usda": null
     },
     {
         "id": "blueberry",
         "display_name": "Blueberry",
         "category": "fruits",
-        "type": "fruit",
+        "type": "food",
         "aliases": [],
-        "usda": "",
-        "recognizable": true
+        "recognizable": true,
+        "usda": null
     },
     {
         "id": "watermelon",
         "display_name": "Watermelon",
         "category": "fruits",
-        "type": "fruit",
+        "type": "food",
         "aliases": [],
-        "usda": "",
-        "recognizable": true
+        "recognizable": true,
+        "usda": null
     },
     {
         "id": "pineapple",
         "display_name": "Pineapple",
         "category": "fruits",
-        "type": "fruit",
+        "type": "food",
         "aliases": [],
-        "usda": "",
-        "recognizable": true
+        "recognizable": true,
+        "usda": null
     },
     {
         "id": "kiwi",
         "display_name": "Kiwi",
         "category": "fruits",
-        "type": "fruit",
+        "type": "food",
         "aliases": [],
-        "usda": "",
-        "recognizable": true
+        "recognizable": true,
+        "usda": null
     },
     {
         "id": "grapes",
         "display_name": "Grapes",
         "category": "fruits",
-        "type": "fruit",
+        "type": "food",
         "aliases": [],
-        "usda": "",
-        "recognizable": true
+        "recognizable": true,
+        "usda": null
     }
 ]

@@ -1,4 +1,50 @@
 {
     "schema_version": 1,
-    "foods": []
+    "foods": [
+        {
+            "id": "french_toast",
+            "display_name": "French Toast",
+            "category": "grains",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "garlic_bread",
+            "display_name": "Garlic Bread",
+            "category": "grains",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "macaroni_and_cheese",
+            "display_name": "Macaroni And Cheese",
+            "category": "grains",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "pancakes",
+            "display_name": "Pancakes",
+            "category": "grains",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "waffles",
+            "display_name": "Waffles",
+            "category": "grains",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        }
+    ]
 }

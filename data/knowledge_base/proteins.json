@@ -1,4 +1,113 @@
 {
     "schema_version": 1,
-    "foods": []
+    "foods": [
+        {
+            "id": "baby_back_ribs",
+            "display_name": "Baby Back Ribs",
+            "category": "proteins",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "beef_carpaccio",
+            "display_name": "Beef Carpaccio",
+            "category": "proteins",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "beef_tartare",
+            "display_name": "Beef Tartare",
+            "category": "proteins",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "deviled_eggs",
+            "display_name": "Deviled Eggs",
+            "category": "proteins",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "eggs_benedict",
+            "display_name": "Eggs Benedict",
+            "category": "proteins",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "escargots",
+            "display_name": "Escargots",
+            "category": "proteins",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "filet_mignon",
+            "display_name": "Filet Mignon",
+            "category": "proteins",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "foie_gras",
+            "display_name": "Foie Gras",
+            "category": "proteins",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "omelette",
+            "display_name": "Omelette",
+            "category": "proteins",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "pork_chop",
+            "display_name": "Pork Chop",
+            "category": "proteins",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "prime_rib",
+            "display_name": "Prime Rib",
+            "category": "proteins",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        },
+        {
+            "id": "steak",
+            "display_name": "Steak",
+            "category": "proteins",
+            "type": "food",
+            "aliases": [],
+            "recognizable": true,
+            "usda": null
+        }
+    ]
 }
